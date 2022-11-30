@@ -20,7 +20,7 @@ npm i
 
 ## Usage
 
-Deployed application can be found [HERE.]() 
+Deployed application can be found [HERE.](https://whispering-cove-01217.herokuapp.com)
 The following images show the web application's appearance and functionality:
 
 ![Existing notes are listed in the left-hand column with empty fields on the right-hand side for the new note’s title and text.](./public/assets/img/demo1.png)
